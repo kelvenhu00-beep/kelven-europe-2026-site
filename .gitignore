@@ -1,0 +1,4 @@
+dist/
+*.zip
+assets/*.png
+.DS_Store
