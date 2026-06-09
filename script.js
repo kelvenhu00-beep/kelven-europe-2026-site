@@ -28,7 +28,7 @@ const tripStages = [
     to: "2026-06-26",
     phase: "CGF 维也纳峰会",
     next: "优先看当天会议卡片顶部的今日主轴和必到场次。",
-    reminder: "6/24 晚 L'Oréal Gala 需要 Black Tie；6/25 10:50 聚焦中国；6/26 09:30 腾讯许浩。",
+    reminder: "6/24 晚 L'Oréal Gala 需要 Black Tie；6/25 10:50 聚焦中国；6/26 12:15 ACV 门口集合参加中国考察团参访。",
     jump: "筛选 CGF，展开当天会议卡片。"
   },
   {

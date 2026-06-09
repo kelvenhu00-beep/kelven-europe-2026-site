@@ -495,6 +495,60 @@ main {
   color: #7c2d12;
 }
 
+.visit-grid {
+  display: grid;
+  gap: 10px;
+  margin: 0 0 16px;
+}
+
+.visit-card {
+  border: 1px solid #d9e5e6;
+  border-radius: 8px;
+  padding: 12px;
+  background: #fbfdfc;
+}
+
+.visit-card.priority {
+  border-color: #ead4b7;
+  background: #fff8ef;
+}
+
+.visit-card span {
+  display: block;
+  color: #48666c;
+  font-size: 0.74rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.visit-card h3 {
+  margin: 6px 0 0;
+  color: #17343b;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.visit-card p {
+  margin: 7px 0 0;
+  color: #526068;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.visit-card strong {
+  display: block;
+  margin-top: 8px;
+  color: #244c45;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.visit-card.priority h3,
+.visit-card.priority strong {
+  color: #7c2d12;
+}
+
 .key-grid {
   display: grid;
   gap: 8px;
